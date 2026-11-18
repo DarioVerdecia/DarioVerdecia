@@ -13,7 +13,7 @@ Estudiante de la Universidad de las Ciencias Informáticas (UCI).
 Estoy subiendo mis proyectos poco a poco. Mira los repositorios fijados arriba.
 
 Contacto
-verdecialopez@gmail.com
+verdecialopezdario@gmail.com
 https://www.linkedin.com/in/dar%C3%ADo-verdecia-l%C3%B3pez-8b36a0450
 
 
