@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Darío
 
-<!--
-**DarioVerdecia/DarioVerdecia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la Universidad de las Ciencias Informáticas (UCI).
 
-Here are some ideas to get you started:
+## Qué hago
+- Bots de Telegram y automatizaciones con Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Con qué trabajo
+- Python y C++ 
+- Aprendiendo Java
+
+## Proyectos
+Estoy subiendo mis proyectos poco a poco. Mira los repositorios fijados arriba.
+
+Contacto
+verdecialopez@gmail.com
+https://www.linkedin.com/in/dar%C3%ADo-verdecia-l%C3%B3pez-8b36a0450
+
+
